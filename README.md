@@ -7,7 +7,7 @@ This To-Do List application is built using **React** for the frontend and **Expr
 - Mark tasks as completed or uncompleted.
 - Delete tasks.
 
-The backend is deployed in a Docker container, while the frontend is hosted on **Netlify**.
+The backend is deployed in a Docker container, while the frontend is hosted on **Vercel**.
 
 ---
 
@@ -25,6 +25,6 @@ The backend is deployed in a Docker container, while the frontend is hosted on *
 - **Node.js** (v14.x or later)
 - **npm** (v6.x or later)
 - **Docker** (for backend deployment)
-- **Netlify Account** (for frontend deployment)
+- **Vercel Account** (for frontend deployment)
 
 ---
